@@ -13,7 +13,8 @@ The application consists of the following files:
 - **App.js**: The entry point of the application.
 - **index.js**: Renders the `App` component to the root HTML element.
 
- "C:\Users\bpoornas\Downloads\IMG_20231122_004655.jpg"
+ ![IMG_20231122_004655](https://github.com/poornasirisha/Assignment_on_Reactjs/assets/114747843/b2f349aa-6213-4314-9828-e3dbecefbafb)
+
 
 
 
@@ -28,7 +29,8 @@ Welcome to the Theme Toggler project! This simple React project demonstrates the
 **App.js:** The entry point of the application. Renders the main application component (ThemeToggler) and orchestrates the overall structure of the app.
 **index.js**: Renders the App component to the root HTML element. Serves as the entry point for the React application, mounting the App component to the root HTML element in the DOM.
 
-![image](https://github.com/sai-png/reactjs-tasks/assets/67268899/6aa7ef99-d022-4a55-b6dc-4c2adf1cd569)
+![IMG_20231122_004806](https://github.com/poornasirisha/Assignment_on_Reactjs/assets/114747843/52761719-c61c-4731-98df-389bf8ebc372)
+
 
 
 ## TASK 3 : **Timer Project**
@@ -43,7 +45,8 @@ Welcome to the Timer project! This React project showcases a custom hook, useTim
 **App.js**: The entry point of the application. Renders the main application component (Timer) and orchestrates the overall structure of the app.
 **index.js**: Renders the App component to the root HTML element. Serves as the entry point for the React application, mounting the App component to the root HTML element in the DOM.
 
-![image](https://github.com/sai-png/reactjs-tasks/assets/67268899/a5b68f64-a45d-491c-b86a-63725da8eb78)
+![IMG_20231122_004753](https://github.com/poornasirisha/Assignment_on_Reactjs/assets/114747843/d8bf27e0-15f1-45d7-b45b-76f6a1df6e7c)
+
 
 
 ## TASK 4 : **Employee Management System**
@@ -61,6 +64,7 @@ This React application is designed to manage a list of employees. Each employee 
 **EmployeeManagementSystem.css:** Styles specific to the Employee Management System component. Provides a beautiful and formal design with a blue, white, and gradient color scheme. Includes button animations for an enhanced user experience.
 **App.js:** The entry point of the application. Renders the main application component (EmployeeManagementSystem) and orchestrates the overall structure of the app.
 
-![image](https://github.com/sai-png/reactjs-tasks/assets/67268899/318501c7-4bab-46c3-b795-ba91c5df44c3)
+![IMG_20231122_004845](https://github.com/poornasirisha/Assignment_on_Reactjs/assets/114747843/3142a64e-abce-4244-b14f-3d0db3647d6c)
+
 
 
