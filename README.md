@@ -13,8 +13,7 @@ The application consists of the following files:
 - **App.js**: The entry point of the application.
 - **index.js**: Renders the `App` component to the root HTML element.
 
-  ![image](https://github.com/sai-png/reactjs-tasks/assets/67268899/70218dd6-5ad6-4b12-ac73-dc56b36f4145)
-
+ "C:\Users\bpoornas\Downloads\IMG_20231122_004655.jpg"
 
 
 
