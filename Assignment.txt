@@ -1,0 +1,58 @@
+
+Assignments:
+1.
+Build a simple shopping cart application using useReducer:
+
+Create a state for the shopping cart using useReducer.
+Implement actions like adding items to the cart, removing items, and updating quantities.
+Display the current cart state on the screen.
+
+2.
+Implement a theme toggler using useContext:
+
+Create a context for the theme (light/dark).
+Build a component that uses useContext to access the current theme.
+Include a button to toggle between light and dark themes.
+
+3.
+Create a custom hook for handling a timer:
+
+Build a timer component that displays the elapsed time.
+Use the useEffect and useState hooks to update the elapsed time every second.
+Extract the timer logic into a custom hook called useTimer.
+
+4.
+Assignment: Employee Management System
+Create a React application to manage a list of employees. Each employee should have details like name, position, and salary. Implement buttons for modifying and deleting individual employee data.
+
+Task:
+Design a React component (EmployeeList) that displays a list of employees. Include buttons for modifying and deleting individual employee data. Implement an additional component (AddEmployeeForm) to add new employees to the list.
+
+Requirements:
+EmployeeList Component:
+
+Display a list of employees with their name, position, and salary.
+Include buttons for modifying and deleting each employee's data.
+Clicking the modify button should open a form to update the employee's details.
+Clicking the delete button should remove the employee from the list.
+AddEmployeeForm Component:
+
+Create a form with input fields for name, position, and salary.
+Use the form to add new employees to the list.
+State Management:
+
+Use the useState/useReducer hook to manage the list of employees (employees state).
+Initialize the state with dummy employee objects.
+Functionality:
+
+Implement functions to add, modify, and delete employee data.
+Ensure that modifying an employee updates their name, position, and salary.
+Deleting an employee should remove them from the list.
+Bonus (Optional):
+
+Use the useEffect hook to manage side effects, such as fetching initial data or updating the UI when the employees state changes.
+Styling:
+
+Apply basic styling to make the employee list and form visually appealing.
+Ensure that the modify and delete buttons are styled appropriately.
+
